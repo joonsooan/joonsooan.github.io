@@ -1,6 +1,6 @@
 ---
 title: "제3회 UNIJAM 후기"
-excerpt: 제3회 UNIJAM 후기글입니다
+excerpt: "제3회 UNIJAM 후기글입니다"
 
 categories: [Blog]
 tags: [Blog, Events]
@@ -105,7 +105,6 @@ public void Split(int splitTimes, Transform transform, EUnitGroup hitUnitGroup)
 결과적으로 이런 느낌으로 나왔네요
 
 ![split_unit](https://github.com/user-attachments/assets/43acf9ca-1003-48b8-9770-3cd0a2e36187){: width="50%" height="50%"}
-
 
 ---
 
