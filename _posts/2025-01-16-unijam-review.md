@@ -2,8 +2,8 @@
 title: "제3회 UNIJAM 후기"
 excerpt: "제3회 UNIJAM 후기글입니다"
 
-categories: [Blog]
-tags: [Blog, Events]
+categories: [Blog, GameJam]
+tags: [Blog, Events, GameJam, 게임잼]
 
 date: 2025-01-16
 ---
